@@ -14,8 +14,11 @@ cd Frontend
 ## Now run npm i or npm install as this project is instantiated by create-react-app using npm package :-
 ```bash
 npm install
+npm i date-picker --force
+npm i --legacy-peer-deps
+npm audit fix --force
 ```
-## Now go to sub directory Frontend :-
+## Now go to sub directory backend :-
 ```bash
 cd backend
 ```
