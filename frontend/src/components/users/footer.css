@@ -1,0 +1,27 @@
+hr{
+    margin: 0 6rem;
+}
+
+.mainColor{
+    background-color: whitesmoke;
+}
+
+.footerlast{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2rem;
+    padding: 3rem 10rem;
+}
+
+img{
+    width: 300px;
+    height: 100px;
+}
+
+p{
+    padding: 0 2.3rem;
+    color: #727272;
+}
+
+
